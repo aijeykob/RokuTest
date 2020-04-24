@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RokuTest/static/css/main.0d320229.chunk.css",
+    "main.js": "/RokuTest/static/js/main.d9b79aa1.chunk.js",
+    "main.js.map": "/RokuTest/static/js/main.d9b79aa1.chunk.js.map",
+    "runtime-main.js": "/RokuTest/static/js/runtime-main.47381699.js",
+    "runtime-main.js.map": "/RokuTest/static/js/runtime-main.47381699.js.map",
+    "static/js/2.d5097c89.chunk.js": "/RokuTest/static/js/2.d5097c89.chunk.js",
+    "static/js/2.d5097c89.chunk.js.map": "/RokuTest/static/js/2.d5097c89.chunk.js.map",
+    "index.html": "/RokuTest/index.html",
+    "precache-manifest.168c289e64c0a3943e9ec83ebfec2e53.js": "/RokuTest/precache-manifest.168c289e64c0a3943e9ec83ebfec2e53.js",
+    "service-worker.js": "/RokuTest/service-worker.js",
+    "static/css/main.0d320229.chunk.css.map": "/RokuTest/static/css/main.0d320229.chunk.css.map",
+    "static/js/2.d5097c89.chunk.js.LICENSE.txt": "/RokuTest/static/js/2.d5097c89.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.47381699.js",
+    "static/js/2.d5097c89.chunk.js",
+    "static/css/main.0d320229.chunk.css",
+    "static/js/main.d9b79aa1.chunk.js"
+  ]
+}

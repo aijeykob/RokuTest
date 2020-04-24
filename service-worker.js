@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RokuTest/precache-manifest.168c289e64c0a3943e9ec83ebfec2e53.js"
+  "/RokuTest/precache-manifest.6eeb0ded924234b5943f8febbb765515.js"
 );
 
 self.addEventListener('message', (event) => {
